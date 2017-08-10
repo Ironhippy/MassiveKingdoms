@@ -1,0 +1,5 @@
+name: MassiveKingdoms
+version: 1.0.0-SNAPSHOT
+main: net.graystone.java.kingdoms.MassiveKingdoms
+depend: [MassiveCore]
+softdepend: [MassiveChannels]
